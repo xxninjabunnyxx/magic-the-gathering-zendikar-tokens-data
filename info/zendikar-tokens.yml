@@ -1,0 +1,18 @@
+---
+object: set
+id: f97260a2-5fb8-4261-aedc-ce0836b01400
+code: tzen
+name: Zendikar Tokens
+uri: https://api.scryfall.com/sets/f97260a2-5fb8-4261-aedc-ce0836b01400
+scryfall_uri: https://scryfall.com/sets/tzen
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atzen&unique=prints
+released_at: '2009-10-02'
+set_type: token
+card_count: 11
+parent_set_code: zen
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: zen
+block: Zendikar
+icon_svg_uri: https://svgs.scryfall.io/sets/zen.svg?1694404800
